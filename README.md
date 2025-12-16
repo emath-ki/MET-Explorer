@@ -1,2 +1,2 @@
-# MET-Explorer-
+# MET-Explorer
 Simplifying Museum API Access
