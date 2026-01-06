@@ -1,4 +1,5 @@
 # MET-Explorer: Simplifying Museum API Access
+<img width="1728" height="2304" alt="MET API Project MoodBoard" src="https://github.com/user-attachments/assets/9c4ecd10-2291-4d1a-9434-662dd12910b7" />
 
 A Python-based project for exploring **The Met Museum’s public collection** in a simple, intuitive, and user-friendly way.
 
