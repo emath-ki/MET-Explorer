@@ -2,9 +2,8 @@
 
 A Python-based project for exploring **The Met Museum’s public collection** in a simple, intuitive, and user-friendly way.
 
-> **Overview:** In 2017, The Met launched its **Open Access Initiative**, making over 492,000 images of public-domain artworks freely available.  
-
-This project builds on that generosity by providing a **Python interface that makes exploring the collection easy and engaging**. Using automated data retrieval, it transforms open data into an **experience designed for discovery, curiosity, and learning**, enabling users to search for artworks by artist, culture, or keyword, and view detailed information including images and thumbnails.  
+> **Overview:** In 2017, The Met launched its **Open Access Initiative**, making over 492,000 images of public-domain artworks freely available.
+> This project builds on that generosity by providing a **Python interface that makes exploring the collection easy and engaging**. Using automated data retrieval, it transforms open data into an **experience designed for discovery, curiosity, and learning**, enabling users to search for artworks by artist, culture, or keyword, and view detailed information including images and thumbnails.  
 
 The goal is to make **art exploration accessible and enjoyable for anyone**, from learners to developers and art enthusiasts.
 
