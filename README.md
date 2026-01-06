@@ -25,25 +25,13 @@ The goal is to make **art exploration accessible and enjoyable for anyone**, fro
 **How to Run:**
 
 1. Install Python 3.7+ and the `requests` library:
-
-```bash
 pip install requests
-Open run1.py to search the collection: modify params for your query and run:
 
-bash
-Copy code
+2. Open run1.py to search the collection: modify params for your query and run:
 python run1.py
-Open run2.py to fetch artwork details: replace the object ID and run:
 
-bash
-Copy code
+3. Open run2.py to fetch artwork details: replace the object ID and run:
 python run2.py
-Optional: loop through multiple object IDs or modify queries for further exploration.
 
-Extending the Project
-Retrieve multiple artworks automatically
-
-Include additional metadata: objectDate, medium, dimensions
-
-Integrate into interactive visualizations or web apps
+4. Optional: loop through multiple object IDs or modify queries for further exploration.
 
